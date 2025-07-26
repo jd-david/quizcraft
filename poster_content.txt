@@ -1,0 +1,59 @@
+# QUIZCRAFT
+
+**Tagline:** QuizCraft is a mobile application that helps students study by converting lecture materials into interactive quizzes. It uses Natural Language Processing (NLP) to analyze uploaded text and automatically generate questions that test understanding.
+
+**Author:**
+Name: Dagadu John David
+Supervisor: Dr. Eric Opoku Osei
+
+---
+
+## INTRODUCTION
+
+Effective learning from lecture materials often extends beyond passive reading and note-taking. Students frequently face challenges in actively engaging with content, identifying key concepts for self-assessment, and efficiently preparing for examinations. Traditional study methods, while valuable, can be time-consuming and may not always facilitate the proven benefits of active recall and self-testing. While digital study tools exist, there's a distinct need for a mobile-first solution that seamlessly transforms personal lecture materials into customized learning aids, empowering students to study smarter, not just harder.
+
+---
+
+## OBJECTIVE
+
+The objective of this project is to develop a mobile application that empowers students to automatically generate study questions directly from their lecture materials to enhance their learning process.
+
+---
+
+## METHODOLOGY
+
+This project involves the development of a mobile application with the following core workflow:
+
+*   **Material Input:** Users upload lecture materials (e.g., PDF, TXT files) or paste text directly into the application.
+*   **Text Processing & Analysis:** The app utilizes Natural Language Processing (NLP) algorithms to parse the input text, identify key concepts, important terms, and relevant sentences.
+*   **Question Generation:** Based on the analyzed text, intelligent algorithms formulate various types of study questions (e.g., multiple-choice, true/false, short answer) designed to test comprehension.
+*   **Interactive Interface:** A user-friendly mobile interface allows students to easily manage materials, initiate question generation, take quizzes, and review their answers.
+
+---
+
+## RESULTS
+
+*   **Quiz Craft:** Functional mobile app prototype developed.
+*   **Core Input:** Lecture materials via [text, PDF, image] successfully processed.
+*   **Question Generation:** Demonstrably creates [multiple-choice, open-ended, etc.] questions.
+*   **Performance:** Initial tests: avg. [30 sec/600 words/page] generation time.
+
+---
+
+## ANALYSIS
+
+The project solves the problem of passive studying by turning lecture materials into interactive quizzes. Using NLP, the app extracts key information and generates relevant questions to test understanding. This encourages active learning and improves retention. The mobile interface ensures accessibility and ease of use for students.
+
+*(Note: The poster includes placeholders for a graph and illustrations here.)*
+
+---
+
+## CONCLUSION
+
+This project demonstrates the effective use of AI and Natural Language Processing to support modern learning needs. By converting lecture materials into automatically generated quizzes, it promotes active engagement and deeper understanding. The mobile interface ensures that students can study anytime and anywhere, making learning more flexible and personalized. Overall, the application serves as a practical tool to enhance academic performance through intelligent content interaction.
+
+---
+
+## RELATED LITERATURE
+
+*(Note: The poster advises to "cite only the key references used in the study" as this section can take up a lot of space.)*

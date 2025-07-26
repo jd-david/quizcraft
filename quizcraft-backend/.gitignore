@@ -1,0 +1,7 @@
+node_modules
+dist
+# serviceAccountKey.json
+.env*
+test.md
+.vercel
+config/
