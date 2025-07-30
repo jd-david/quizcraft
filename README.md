@@ -19,12 +19,14 @@ Effective learning from lecture materials often extends beyond passive reading a
 
 ## 📸 Screenshots
 
-(Add screenshots of the mobile app here. You can replace these placeholders with your actual screenshots.)
-
-| Light Mode | Dark Mode |
-| :---: | :---: |
-| ![Light Mode Screenshot 1](https://via.placeholder.com/300x600.png?text=Light+Mode+Screen+1) | ![Dark Mode Screenshot 1](https://via.placeholder.com/300x600.png?text=Dark+Mode+Screen+1) |
-| ![Light Mode Screenshot 2](https://via.placeholder.com/300x600.png?text=Light+Mode+Screen+2) | ![Dark Mode Screenshot 2](https://via.placeholder.com/300x600.png?text=Dark+Mode+Screen+2) |
+| Screenshots |
+| :---: |
+| ![Courses](dev/courses.png) |
+| ![Materials](dev/materials.png) |
+| ![Quiz Generation](dev/quiz_gen.png) |
+| ![Quiz Ready](dev/quiz_ready.png) |
+| ![Grade](dev/grade.png) |
+| ![Success](dev/sucess.png) |
 
 ## 🛠️ Tech Stack
 
